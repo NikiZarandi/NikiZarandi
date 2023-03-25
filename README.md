@@ -8,7 +8,7 @@ I am passionate about design and love to create great websites!
 
 Here are some ideas to get you started:
 -->
-• 💡 I am Web Developer and artist with an academic background in industrial design.
+• 💡 I am Web Developer student and artist with an academic background in Industrial Design.
 
 •	💡 Currently I am developing with JavaScript, TypeScript, React and Next.js.
 
