@@ -1,7 +1,7 @@
 ### Hi, I am Niki Zarandi! 👋
 
 
-I am passionate about design and live to create great websites!
+I am passionate about design and love to create great websites!
 
 <!--
 **NikiZarandi/NikiZarandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
